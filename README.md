@@ -17,7 +17,7 @@ Lamia</a></h1>
 
 - 📝 My my thesis on Vehicle Detection <a href="https://www.academia.edu/68142886/Video_Based_Vehicle_Detection_and_Tracking_using_Image_Processing_and_Deep_Learning" target="blank">here</a>
 
-- 💬 Ask me about **Python and SQL**
+- 💬 Ask me about **Python**
 
 - 📫 How to reach me **lamianjum123@gmail.com**
 
