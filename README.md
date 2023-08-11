@@ -11,7 +11,7 @@ Lamia</a></h1>
 
 - 👩‍🎓 I’ve completed my B.Sc from Computer Science and Engineering from <a href="https://www.aust.edu/" target="blank">AUST</a>
 
-- 📜 I’m currently learning Data Science
+- 📜 I’m currently learning Machine Learning
 
 - 🤝 I’m looking for a job where I can put my practical knowledge to use .
 
